@@ -21,5 +21,6 @@
     "platform": "Darwin",
     "claude_version_downloaded": "2025-11-19",
     "setup_duration_seconds": 43.08
-  }
+  },
+  "last_submission_version": 1
 }
